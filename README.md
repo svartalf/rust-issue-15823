@@ -11,3 +11,7 @@
 
 This behavior was tested both with Rust `1.41.0-stable`
 and `1.43.0-nightly (7760cd0fb 2020-02-19)`
+
+![](./assets/alias.png)
+
+![](./assets/function.png)
